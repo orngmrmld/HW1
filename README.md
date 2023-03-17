@@ -1,2 +1,2 @@
-# HW1
+# Homework1
 Bootcamp Coding Challenge 1
