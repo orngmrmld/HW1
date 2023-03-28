@@ -1,4 +1,4 @@
-# Homework1-Bootcamp Challenge 1
+# Horiseon Landing Page
 
 ## Description
 
